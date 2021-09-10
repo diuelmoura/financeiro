@@ -1,0 +1,10 @@
+C:\Users\Diuel\Desktop\FPFTech\financeiro\financeiro.DLL\obj\Debug\netcoreapp3.1\financeiro.DLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Diuel\Desktop\FPFTech\financeiro\financeiro.DLL\obj\Debug\netcoreapp3.1\financeiro.DLL.AssemblyInfoInputs.cache
+C:\Users\Diuel\Desktop\FPFTech\financeiro\financeiro.DLL\obj\Debug\netcoreapp3.1\financeiro.DLL.AssemblyInfo.cs
+C:\Users\Diuel\Desktop\FPFTech\financeiro\financeiro.DLL\obj\Debug\netcoreapp3.1\financeiro.DLL.csproj.CoreCompileInputs.cache
+C:\Users\Diuel\Desktop\FPFTech\financeiro\financeiro.DLL\bin\Debug\netcoreapp3.1\financeiro.DLL.deps.json
+C:\Users\Diuel\Desktop\FPFTech\financeiro\financeiro.DLL\bin\Debug\netcoreapp3.1\financeiro.DLL.dll
+C:\Users\Diuel\Desktop\FPFTech\financeiro\financeiro.DLL\bin\Debug\netcoreapp3.1\financeiro.DLL.pdb
+C:\Users\Diuel\Desktop\FPFTech\financeiro\financeiro.DLL\obj\Debug\netcoreapp3.1\financeiro.DLL.dll
+C:\Users\Diuel\Desktop\FPFTech\financeiro\financeiro.DLL\obj\Debug\netcoreapp3.1\financeiro.DLL.pdb
+C:\Users\Diuel\Desktop\FPFTech\financeiro\financeiro.DLL\obj\Debug\netcoreapp3.1\financeiro.DLL.csproj.AssemblyReference.cache

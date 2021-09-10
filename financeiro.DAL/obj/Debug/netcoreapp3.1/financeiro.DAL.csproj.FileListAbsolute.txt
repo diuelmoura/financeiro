@@ -1,0 +1,16 @@
+C:\Users\Diuel\Desktop\FPFTech\financeiro\financeiro.DAL\obj\Debug\netcoreapp3.1\financeiro.DAL.csproj.AssemblyReference.cache
+C:\Users\Diuel\Desktop\FPFTech\financeiro\financeiro.DAL\obj\Debug\netcoreapp3.1\financeiro.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Diuel\Desktop\FPFTech\financeiro\financeiro.DAL\obj\Debug\netcoreapp3.1\financeiro.DAL.AssemblyInfoInputs.cache
+C:\Users\Diuel\Desktop\FPFTech\financeiro\financeiro.DAL\obj\Debug\netcoreapp3.1\financeiro.DAL.AssemblyInfo.cs
+C:\Users\Diuel\Desktop\FPFTech\financeiro\financeiro.DAL\obj\Debug\netcoreapp3.1\financeiro.DAL.csproj.CoreCompileInputs.cache
+C:\Users\Diuel\Desktop\FPFTech\financeiro\financeiro.DAL\bin\Debug\netcoreapp3.1\financeiro.DAL.deps.json
+C:\Users\Diuel\Desktop\FPFTech\financeiro\financeiro.DAL\bin\Debug\netcoreapp3.1\financeiro.DAL.runtimeconfig.json
+C:\Users\Diuel\Desktop\FPFTech\financeiro\financeiro.DAL\bin\Debug\netcoreapp3.1\financeiro.DAL.runtimeconfig.dev.json
+C:\Users\Diuel\Desktop\FPFTech\financeiro\financeiro.DAL\bin\Debug\netcoreapp3.1\financeiro.DAL.dll
+C:\Users\Diuel\Desktop\FPFTech\financeiro\financeiro.DAL\bin\Debug\netcoreapp3.1\financeiro.DAL.pdb
+C:\Users\Diuel\Desktop\FPFTech\financeiro\financeiro.DAL\bin\Debug\netcoreapp3.1\financeiro.DLL.dll
+C:\Users\Diuel\Desktop\FPFTech\financeiro\financeiro.DAL\bin\Debug\netcoreapp3.1\financeiro.DLL.pdb
+C:\Users\Diuel\Desktop\FPFTech\financeiro\financeiro.DAL\obj\Debug\netcoreapp3.1\financeiro.DAL.csproj.CopyComplete
+C:\Users\Diuel\Desktop\FPFTech\financeiro\financeiro.DAL\obj\Debug\netcoreapp3.1\financeiro.DAL.dll
+C:\Users\Diuel\Desktop\FPFTech\financeiro\financeiro.DAL\obj\Debug\netcoreapp3.1\financeiro.DAL.pdb
+C:\Users\Diuel\Desktop\FPFTech\financeiro\financeiro.DAL\obj\Debug\netcoreapp3.1\financeiro.DAL.genruntimeconfig.cache
