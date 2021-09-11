@@ -45,7 +45,7 @@ import { ReactiveFormsModule } from '@angular/forms';
   providers: [
     TiposService,
     HttpClientModule,
-    CategoriasService
+    CategoriasService,
   ],
   bootstrap: [AppComponent]
 })
