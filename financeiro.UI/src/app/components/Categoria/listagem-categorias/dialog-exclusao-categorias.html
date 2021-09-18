@@ -1,0 +1,8 @@
+<h1 mat-dialog-title>CONFIRMAÇÃO DE EXCLUSÃO</h1>
+
+<div mat-dialog-content>PROSSEGUIR COM A EXCLUSÃO DA CATEGORIA {{dados.nome}} ?</div>
+
+<mat-dialog-actions aling="end">
+  <button mat-button mat-dialog-close>NÃO</button>
+  <button mat-button [mat-dialog-close]="true" (click)="ExcluirCategoria(dados.categoriaId)">SIM</button>
+</mat-dialog-actions>

@@ -45,6 +45,7 @@ tipos: Tipo[];
        this.router.navigate(['categorias/listagemcategorias']);
     });
   }
+  
   VoltarListagem() : void{
     this.router.navigate(['categorias/listagemcategorias']);
   }

@@ -8,7 +8,7 @@ import { AppComponent } from './app.component';
 import { TiposService } from './services/tipos.service';
 import { CategoriasService } from './services/categorias.service';
 import { NovaCategoriaComponent } from './components/Categoria/nova-categoria/nova-categoria.component';
-import { ListagemCategoriasComponent } from './components/Categoria/listagem-categorias/listagem-categorias.component';
+import { ListagemCategoriasComponent, DialogExclusaoCategoriasComponent } from './components/Categoria/listagem-categorias/listagem-categorias.component';
 import { AtualizarCategoriaComponent } from './components/Categoria/atualizar-categoria/atualizar-categoria.component';
 
 
@@ -23,14 +23,15 @@ import { MatDividerModule } from '@angular/material/divider';
 import { MatSelectModule } from '@angular/material/select';
 import { MatGridListModule } from '@angular/material/grid-list';
 import { ReactiveFormsModule } from '@angular/forms';
-
+import { MatDialogModule } from '@angular/material/dialog';
 
 @NgModule({
   declarations: [
     AppComponent,
     ListagemCategoriasComponent,
     NovaCategoriaComponent,
-    AtualizarCategoriaComponent
+    AtualizarCategoriaComponent,
+    DialogExclusaoCategoriasComponent
   ],
   imports: [
     HttpClientModule,
@@ -46,7 +47,8 @@ import { ReactiveFormsModule } from '@angular/forms';
     MatCardModule,
     MatFormFieldModule,
     MatInputModule,
-    MatGridListModule
+    MatGridListModule,
+    MatDialogModule
   ],
   providers: [
     TiposService,

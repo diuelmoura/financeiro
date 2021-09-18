@@ -14,8 +14,8 @@ import { TiposService } from 'src/app/services/tipos.service';
 })
 export class AtualizarCategoriaComponent implements OnInit {
 
-  categoriaId: number;
   nomeCategoria: string;
+  categoriaId: number;
   categoria: Observable<Categoria>;
   tipos: Tipo[];
   formulario: any
@@ -54,7 +54,7 @@ export class AtualizarCategoriaComponent implements OnInit {
     const categoria = this.formulario.value;
     this.categoriaService.AtualizarCategoria(this.categoriaId, categoria).subscribe(resultado => {
       this.router.navigate(['categorias/listagemcategorias']);
-    })
+    });
   }
 
   VoltarListagem() : void{
