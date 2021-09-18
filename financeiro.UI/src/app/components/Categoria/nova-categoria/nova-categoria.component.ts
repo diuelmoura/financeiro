@@ -4,7 +4,7 @@ import { TiposService } from 'src/app/services/tipos.service';
 import { FormGroup, FormControl } from '@angular/forms';
 import { CategoriasService } from 'src/app/services/categorias.service';
 import { Router } from '@angular/router';
-import { Categoria } from 'src/app/models/Categoria';
+//import { Categoria } from 'src/app/models/Categoria';
 
 
 @Component({
@@ -44,6 +44,9 @@ tipos: Tipo[];
     this.categoriasService.NovaCategoria(categoria).subscribe((resultado) => {
        this.router.navigate(['categorias/listagemcategorias']);
     });
+  }
+  VoltarListagem() : void{
+    this.router.navigate(['categorias/listagemcategorias']);
   }
 
 }
